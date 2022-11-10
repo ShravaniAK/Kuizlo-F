@@ -1,0 +1,25 @@
+{
+  "short_name": "Kuizlo",
+  "name": "Kuizlo",
+  "icons": [
+    {
+      "src": "logo.jpeg",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.jpeg",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo.jpeg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ede0f4",
+  "background_color": "#ede0f4"
+}
